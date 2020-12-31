@@ -1,6 +1,6 @@
-# About
+# Possibly asked questions
 
-This file contains clarifications pertaining to questions I am frequently posed, though not necessarily in the same way. If you have additional questions or need further clarifications, please let me know.
+This file contains clarifications pertaining to questions I could see being asked, though not necessarily in the same way. If you have additional questions or need further clarifications, please let me know.
 
 # Questions
 
@@ -9,13 +9,10 @@ This file contains clarifications pertaining to questions I am frequently posed,
 * Do I consent to drafting manuscripts by sending around email attachments?
   - No
 * Which platforms am I willing to use for collaborative drafting?
-  - ARPHA
   - Etherpad
-  - GitHub
-  - Google docs
+  - GitHub/GitLab/GitBooks
+  - Wordpress
   - MediaWiki
-  - Overleaf
-
 
 ## Collaboration
 
@@ -27,14 +24,12 @@ This file contains clarifications pertaining to questions I am frequently posed,
   - in an online-first fashion?
     - Sure
 
-
 ## Editing
 
 * Am I available as an editor for scholarly venues?
   - Yes, if
     - I have sufficient expertise
     - All publications in the venue are openly licensed 
-
 
 ## Events
 
@@ -45,27 +40,6 @@ This file contains clarifications pertaining to questions I am frequently posed,
     - Yes
   - present remotely?
     - Yes
-
-
-## Peer review
-
-* Am I available as a peer reviewer for scholarly manuscripts?
-  - Yes, if
-    - I have sufficient expertise
-    - All publications in the venue are openly licensed 
-* Am I available as a peer reviewer for scholarly grant proposals?
-  - Yes
-* Am I available as a peer reviewer for scholarly data?
-  - Yes
-* Am I available as a peer reviewer for scholarly software?
-  - Yes
-* Am I available as a peer reviewer for scholarly output management plans?
-  - Yes
-* Am I available as a peer reviewer for other outputs of scholarly workflows?
-  - Yes
-* Am I available as a peer reviewer for scholarly manuscripts?
-  - Yes
-
 
 ## Publishing
 
